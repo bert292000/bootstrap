@@ -1,5 +1,9 @@
-style{
+body{
     text-align: center;
     background-color: #b3d7ff;
+}
 
+.container{
+    padding-top: 200px;
+    
 }

@@ -1,5 +1,17 @@
-#nodelogo{
-    width: 83px;
-    float: right;
-    margin: 8px;
-   }
+.header{
+    padding: 50px;
+    background-image: -webkit-linear-gradient(rgb(98, 98, 143), rgb(149, 207, 149));
+    text-align: center;
+}
+
+div{
+    border: solid;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.line{
+    background-color: rgb(69, 69, 64);
+}
+body{
+    background-image: repeating-linear-gradient(rgb(76, 79, 76), rgb(27, 115, 137), rgb(35, 197, 127));
+}
